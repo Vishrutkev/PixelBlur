@@ -21,8 +21,14 @@ After running the application, a graphical user interface (GUI) window will appe
 If you select "Blur", the application will apply Gaussian Blur to the image, which helps to reduce noise and create a smoother appearance.
 ![image](https://github.com/Vishrutkev/PixelBlur/assets/98125025/ada51d0b-96a8-4db1-a949-76bc8bf5009d)
 
+![image](https://github.com/Vishrutkev/PixelBlur/assets/98125025/7210cdd3-4a6c-412f-8fad-005072bb2923)
+
+![image](https://github.com/Vishrutkev/PixelBlur/assets/98125025/af657247-9bbf-4d62-a99e-e668ec0f86b4)
 
 If you select "Edge Detection", the application will perform edge detection on the image, highlighting the boundaries of objects in the image.
+
+![image](https://github.com/Vishrutkev/PixelBlur/assets/98125025/b9756385-b70a-418c-914b-f88c1141d56f)
+
 
 After clicking the button the image will be processed and resulting image will show on the right-side.
 
