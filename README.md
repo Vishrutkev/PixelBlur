@@ -30,7 +30,7 @@ If you select "Edge Detection", the application will perform edge detection on t
 ![image](https://github.com/Vishrutkev/PixelBlur/assets/98125025/b9756385-b70a-418c-914b-f88c1141d56f)
 
 
-After clicking the button the image will be processed and resulting image will show on the right-side.
+After clicking the button the image will be processed and resulting image will show on the right-side as ashown above.
 
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please submit them as issues on the GitHub repository.
