@@ -19,6 +19,8 @@ run the program and enter "flower" on the command line and it will open thr GUI.
 After running the application, a graphical user interface (GUI) window will appear. The window contains a oringinal image on the left-side button labeled "Blur" and "Edge Detection" on the middle and processed image on the right side.
 
 If you select "Blur", the application will apply Gaussian Blur to the image, which helps to reduce noise and create a smoother appearance.
+![image](https://github.com/Vishrutkev/PixelBlur/assets/98125025/ada51d0b-96a8-4db1-a949-76bc8bf5009d)
+
 
 If you select "Edge Detection", the application will perform edge detection on the image, highlighting the boundaries of objects in the image.
 
