@@ -12,7 +12,7 @@ git clone <repository_url>
 
 Ensure you have Java Development Kit (JDK) installed on your system.
 
-run the program and enter "flower" on the command line and it will open thr GUI.
+run the program and enter "flower" on the command line and it will open the GUI.
 
 ## Usage
 
